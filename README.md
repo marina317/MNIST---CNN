@@ -23,7 +23,7 @@ This project implements a simple Convolutional Neural Network (CNN) using Keras 
 - **Epochs:** 5
 
 ## 📈 Results
-- Prints the test accuracy after training (~98% with current setup).
+- Prints the test accuracy after training (~97% with current setup).
 
 ## 🚀 How to Run
 ```bash
